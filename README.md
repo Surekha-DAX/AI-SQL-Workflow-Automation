@@ -1,7 +1,3 @@
-# AI-SQL-Workflow-Automation
-AI-powered workflow integrating Google Gemini, Postgres, and memory modules for SQL automation.
-# AI-Powered SQL Workflow Automation
-
 This project demonstrates how I designed and implemented an AI-driven workflow that automates SQL query execution using natural language input.
 
 ## 🚀 Features
